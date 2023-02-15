@@ -1,4 +1,4 @@
-# Sample Web3 Project
+# Javascript based Web3 App 
 
 This project demonstrates how to create a minimalistic html Web3 Application built using html and javascript only. It comes with a web page where you could do transaction like Fund, Withdraw, Balance on the fundMe project that is already created and uploaded to git in other repo. 
  
